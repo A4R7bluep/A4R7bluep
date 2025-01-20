@@ -1,4 +1,4 @@
-My name is Ross Gibson. I am currently a Junior at Assabet Valley Regional Technical High School. I am in the Computer Programming and Web Development shop. I enjoy programming. I know HTML, CSS, JavaScript, and Python. I am currently trying to get better at C# and using Microsoft's .NET Framework. I have used WinForms and ASP.NET.
+My name is Yuuki Gibson. I am currently a Freshman at UMass Lowell. I am majoring in Computer Science. I like to work on my various Godot projects. I know HTML, CSS, JavaScript,  Python, and C. I have made projects in C# with ASP.NET and WinForms in the past. I am currently working on a game with my friend in our organization [Steel Demon Games](https://github.com/Steel-Demon-Games). And slowly working on my game, [Project Gearish](https://github.com/A4R7bluep/Smashish3), in the background. I am also finishing Beta on my [AzriaEditor](https://github.com/A4R7bluep/AzriaEditor), my code editor, made to help me be more efficient during class.
 
 <div style="float:left;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4R7bluep&langs_count=10&theme=highcontrast" alt="A4R7bluep's :: Top Langs" />
